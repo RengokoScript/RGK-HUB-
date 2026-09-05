@@ -1,5 +1,3 @@
-
-
 -- RGK HUB - Steal an Egg (Strict Max 2 Players Only)
 local Players = game:GetService("Players")
 local TeleportService = game:GetService("TeleportService")
