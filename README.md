@@ -1,5 +1,3 @@
-# RGK-HUB-
-Script de roblox que leva o player para um servidor com menos pessoas
 
 -- RGK HUB - Steal an Egg (Strict Max 2 Players Only)
 local Players = game:GetService("Players")
